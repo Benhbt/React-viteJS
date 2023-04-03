@@ -23,7 +23,7 @@ const pokemonList = [
     },
   ];
 
-export default PokemonCard; 
+export default PokemonCard;
 
 
 
